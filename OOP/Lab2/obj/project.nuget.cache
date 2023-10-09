@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XY17NCpIP13fg4FvZ1A68LvBQPapLpneIDxTNHviZCR0uW73W9usqwMBZ3pp4MUHxDoKDh8x4FfFCymPju5gcw==",
+  "success": true,
+  "projectFilePath": "C:\\console\\OOP\\Lab2\\Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
